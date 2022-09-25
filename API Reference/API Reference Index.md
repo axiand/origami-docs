@@ -17,6 +17,9 @@ A route, the most essential building block of any app.
 ## [Component](./Component.md)
 A component, used to serve dynamic data based on defined recipes.
 
+## [RequestError](./RequestError.md)
+A request error, typically used to serve client errors.
+
 # Internal
 
 ## [ComponentStore](./ComponentStore.md)
