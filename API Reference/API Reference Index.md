@@ -33,3 +33,6 @@ The HTTP server used by Origami.
 
 ## [RouteStore](./RouteStore.md)
 Internal route storage.
+
+## [RequestHandler](./RequestHandler.md)
+Internal request handler.

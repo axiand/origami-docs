@@ -17,7 +17,7 @@ Array which stores a list of allowed class names that can be handled.
 
 # Functions
 
-## `.prod(Any resolverResponse)`
+## `.proc(Any resolverResponse)`
 Process a resolver response.
 
 ### Any resolverResponse

@@ -17,7 +17,7 @@ The port this server is designated to run on.
 ### Origami parent
 The base instance of Origami this server belongs to.
 
-### internal RequestHandler handler
+### [internal RequestHandler](./RequestHandler.md) handler
 The request handler of this server.
 
 ### server
