@@ -133,4 +133,4 @@ Then we call `res.write(...)` to set the body of our response. Setting the MIME 
 
 Now that you're more knowledgeable about how to use Origami, let's take your skills even further! Join me in the next article as we go over includes.
 
-Next: [Intro to Includes](./Intro%20to%20Includes.md)
+Next: [Intro to Middlewares](./Intro%20to%20Middlewares.md)

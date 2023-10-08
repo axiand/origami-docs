@@ -9,11 +9,11 @@ Create a folder anywhere you want - you can name it anything. This is where your
 This documentation will assume you are using Node.js + NPM, but we'll try to keep things tool-agnostic.
 
 ## 3. Install Origami
-Open up your terminal of choice in the folder you just created, and install the `[--todo-publish-package--]` package.
+Open up your terminal of choice in the folder you just created, and install the `@axiand/origami` package.
 
 For a typical Node + NPM setup, this would be:
 ```
-npm i [--todo-publish-package--]
+npm i @axiand/origami@latest --registry="https://npm.pkg.github.com"
 ```
 Wait for the package to install (shouldn't take too long), then continue following along!
 

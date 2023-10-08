@@ -9,7 +9,7 @@ Picking up where we left off, open up your text editor / IDE of choice and creat
 Fill in this file with the following code, which we'll explain shortly:
 ```js
 // Import Origami
-const { Origami } = require('[--todo-publish-package--]')
+const { Origami } = require('@axiand/origami')
 
 // Create an app running on port 3000
 var app = new Origami(3000)
