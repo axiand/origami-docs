@@ -124,4 +124,4 @@ app.route("GET", "/public/users/:id", () => {}) // neither cascade, since it is 
 
 Thank you for reading, and stick around for the next lesson where we will learn how to work with Components.
 
-Next: [Intro to Components](./Intro%20to%20Components.md)
+Next: [Intro to Components](./Basic%20Usage%20of%20Components.md)
